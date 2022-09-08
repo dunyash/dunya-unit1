@@ -20,8 +20,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
+Portrait mode on iPhone 12 Pro Max (bigger screen)
 <img src="http://g.recordit.co/kArhKiitSv.gif" width=250><br>
+Lanscape mode on iPhone 8 (addaptive, and smaller screen)
+<img src="http://g.recordit.co/lnl49iOJUQ.gif" width=250><br>
+Portrait mode on iPhone 8 (smaller screen)
+<img src="http://g.recordit.co/jXJ3WmEzCe.gif" width=250><br>
 
 ### Notes
 Making the app responsive was a little complicated. 
